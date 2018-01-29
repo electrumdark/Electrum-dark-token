@@ -7,24 +7,13 @@ You can buy and sell anything with no fees using a completely free technology.
 
 Token Details
 
-Token Name:
+Token Name: Electrum Dark
 
-Electrum Dark
+Token Symbol: ELD
 
+Decimals: 18
 
-Token Symbol:
+Contract Adress: 0xaaf7d4cd097317d68174215395eb02c2cca81e31
+ 
+Max Supply: 3.900.000
 
-ELD
-Decimals:
-
-18
-
-
-Contract Adress:
-
-0xaaf7d4cd097317d68174215395eb02c2cca81e31 
-
-
-Max Supply:
-
-3.900.000
