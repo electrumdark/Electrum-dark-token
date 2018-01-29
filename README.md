@@ -5,7 +5,7 @@ You can buy and sell anything with no fees using a completely free technology.
 
 
 
-Token Details
+Token Details :
 
 Token Name: Electrum Dark
 
