@@ -36,7 +36,7 @@ Token Symbol: ELD
 
 Decimals: 18
 
-Contract Adress: 0x67b1d1f2d3157b48dda62b6c4884e610cf7ea823
+Contract Adress: 0x796e47b85a0d759f300f1de96a3583004235d4d8
  
 Max Supply: 3.900.000
 
